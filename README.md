@@ -1,7 +1,7 @@
 # Exapml
 
 ## for run the project 
-#run yarn install first after clone then ng serve to run in
+Run yarn install first to update the dependencies after clone then ng serve to run it.
 ## for user and password
 username : User password: User
 username : User password: Pass
