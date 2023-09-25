@@ -1,5 +1,11 @@
 # Exapml
 
+run yarn install first after clone then ng serve to run in
+for user and password
+username : User password: User
+username : User password: Pass
+username : Admin password: Admin
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
