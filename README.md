@@ -1,7 +1,7 @@
 # Exapml
 
 run yarn install first after clone then ng serve to run in
-for user and password
+## for user and password
 username : User password: User
 username : User password: Pass
 username : Admin password: Admin
